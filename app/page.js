@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
-import Form from "../components/Form/Form";
-import UserCard from "../components/UserCard/UserCard";
+import Form from "../Components/Form/Form";
+import UserCard from "../Components/UserCard/UserCard";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
